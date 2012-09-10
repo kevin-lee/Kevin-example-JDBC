@@ -1,0 +1,13 @@
+.project
+.classpath
+.settings/
+.metadata
+bin/
+build/
+tmp/
+*.tmp
+*.bak
+*.swp
+local.properties
+.loadpath
+.buildpath
